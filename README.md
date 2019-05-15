@@ -2,10 +2,10 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Clean navigation menu snippet** made with Bootstrap 4. You can directly copy and paste into your project for a super quick navigation menu setup. It has a variety of different elements inside the menu - buttons, dropdown, links and brand. Uses the Bootstrap 4 navbar component for perfect responsiveness on smaller screens. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/clean-navigation)
+**Clean navigation menu snippet** made with Bootstrap 4. You can directly copy and paste into your project for a super quick navigation menu setup. It has a variety of different elements inside the menu - buttons, dropdown, links and brand. Uses the Bootstrap 4 navbar component for perfect responsiveness on smaller screens. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Clean Navigation](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/clean-navigation) 
-[![Clean Navigation](/readme-images/screenshot-2.png)](https://epicbootstrap.com/snippets/clean-navigation) 
+[![Clean Navigation](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
+[![Clean Navigation](/readme-images/screenshot-2.png)](https://bootstrapstudio.io) 
 
 ## Features
 
